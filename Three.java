@@ -11,7 +11,7 @@ public class Three{
 		    t1.start();
 			t2.start();
 			t3.start();
-		     t4.wait(10000);
+		  
 			t4.start();
 			t5.start();
 			try{
